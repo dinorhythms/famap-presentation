@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/famap-presentation/static/css/main.8283f640.chunk.css",
+    "main.js": "/famap-presentation/static/js/main.c97c594b.chunk.js",
+    "main.js.map": "/famap-presentation/static/js/main.c97c594b.chunk.js.map",
+    "runtime~main.js": "/famap-presentation/static/js/runtime~main.93a5c146.js",
+    "runtime~main.js.map": "/famap-presentation/static/js/runtime~main.93a5c146.js.map",
+    "static/css/2.ac36bbb9.chunk.css": "/famap-presentation/static/css/2.ac36bbb9.chunk.css",
+    "static/js/2.aebd8c30.chunk.js": "/famap-presentation/static/js/2.aebd8c30.chunk.js",
+    "static/js/2.aebd8c30.chunk.js.map": "/famap-presentation/static/js/2.aebd8c30.chunk.js.map",
+    "index.html": "/famap-presentation/index.html",
+    "precache-manifest.27a1c50769d12f5ce7064466424909fb.js": "/famap-presentation/precache-manifest.27a1c50769d12f5ce7064466424909fb.js",
+    "service-worker.js": "/famap-presentation/service-worker.js",
+    "static/css/2.ac36bbb9.chunk.css.map": "/famap-presentation/static/css/2.ac36bbb9.chunk.css.map",
+    "static/css/main.8283f640.chunk.css.map": "/famap-presentation/static/css/main.8283f640.chunk.css.map",
+    "static/media/font-awesome.min.css": "/famap-presentation/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/logo.png": "/famap-presentation/static/media/logo.7c930a60.png"
+  }
+}
