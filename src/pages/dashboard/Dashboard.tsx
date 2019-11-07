@@ -32,7 +32,6 @@ class Dashboard extends Component<IProps> {
     if(profile && !profile.completedProfile) return <Redirect to="/profileupdate"/>
     if(auth && !auth.emailVerified) return <Redirect to="/emailverification"/>
     if(!locations) return <Redirect to="/locations"/>   
-    console.log(locations)
     return (
       <div>
         <Header title="Customer Home"/>
