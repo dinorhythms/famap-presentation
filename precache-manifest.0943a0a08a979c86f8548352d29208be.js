@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b975bc195c10a9f992126818257b7239",
+    "revision": "c540c005dcdaaaf200c8abd72564eeda",
     "url": "/famap-presentation/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/famap-presentation/static/css/2.ac36bbb9.chunk.css"
   },
   {
-    "revision": "ea342d1e9d5750ce3431",
+    "revision": "5c430f59b0b7edd2dbec",
     "url": "/famap-presentation/static/css/main.8283f640.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/famap-presentation/static/js/2.aebd8c30.chunk.js"
   },
   {
-    "revision": "ea342d1e9d5750ce3431",
-    "url": "/famap-presentation/static/js/main.71b35076.chunk.js"
+    "revision": "5c430f59b0b7edd2dbec",
+    "url": "/famap-presentation/static/js/main.0a6160dd.chunk.js"
   },
   {
     "revision": "7e887d07e936e24e379c",
