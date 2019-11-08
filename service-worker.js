@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/famap-presentation/precache-manifest.0943a0a08a979c86f8548352d29208be.js"
+  "/famap-presentation/precache-manifest.75a60479b931c86c7a8a394d8791f9cc.js"
 );
 
 self.addEventListener('message', (event) => {
